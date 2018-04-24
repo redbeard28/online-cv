@@ -1,5 +1,5 @@
 - skill:
-  name: Ansible & Jinja
+  name: Ansible & DevOps tools
   level: 80%
 - skill:
   name: RedHat & CentOS
@@ -8,11 +8,20 @@
   name: Ubuntu & Debian
   level: 90%
 - skill:
-  name: Bash, python and HTML
-  level: 85%
+  name: Bash or admin programing
+  level: 90%
 - skill:
   name: Cloudera
   level: 50%
 - skill:
-  name: Mesos, Marathon
+  name: Mesos
   level: 50%
+- skill:
+  name: Marathon
+  level: 60%
+- skill:
+  name: Azkaban
+  level: 80%
+- skill:
+  name: Zookeeper
+  level: 25%
