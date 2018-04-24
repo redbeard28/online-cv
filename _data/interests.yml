@@ -1,9 +1,7 @@
 - interest:
-  item: Climbing
-  link:
+  item: IoT
+  link: https://www.thethingsnetwork.org/community/leves/
 - interest:
-  item: Snowboarding
-  link:
-- interest:
-  item: Cooking
-  link:
+  item: 3D printing
+  link: https://3dfabric.fr
+

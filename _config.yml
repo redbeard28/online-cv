@@ -1,8 +1,8 @@
 # Site Settings
 title: My Resume
-url: 'http://webjeda.com'
+url: 'https://redbeard28.github.io/online-cv/'
 baseurl: '/online-cv' #change it according to your repository name
-about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
+about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -14,28 +14,25 @@ about: True # set to False or comment line if you want to remove the "How to use
 
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+name: Jérémie CUADRADO
+tagline: Freelance DevOps
+pic: jcu_ronde_100x100.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'Freelance on devops and big data. Full maker on IoT and 3D print FDM technology.'
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
+email: cv@redbeard-consulting.fr
+phone: +33(0)6.34.48.45.38
 website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+linkedin: jeremiecuadrado
+github: redbeard28
+twitter: '@3dfabric28'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
 #education_in_main: True
 
 # Tracker
-analytics: UA-83979019-1
+analytics: UA-104147870-2
 
 # Build settings
 encoding: "utf-8"
