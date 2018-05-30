@@ -14,6 +14,9 @@
   name: Cloudera
   level: 50%
 - skill:
+  name: Cassandra
+  level: 15%
+- skill:
   name: Mesos
   level: 50%
 - skill:
