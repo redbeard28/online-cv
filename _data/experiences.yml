@@ -3,12 +3,12 @@
   time: 2017 - Present
   company: Anonymous e-commerce client
   details: "Pour un client final prestigieux souhaitant garder l'anonymat, je met à profit mon expertise Linux et ma capacité à m'adapter à son environnement technique.
-  kafka, cloudera, cassandra, Mesos, Zookeeper"
+  Environnement technique: Docker, Git, rundeck, azkaban, marathon, chronos, icinga, kafka, cloudera, cassandra, Mesos, Zookeeper"
 - experience:
   role: Senior System and Lan Engineer
   time: 2014 - 2016
   company: Agefos, Paris
-  details: "Au cœur de l'équipe du service de production, je m'occupe de tous les serveurs Linux, des mise en production des applicatifs métier de mon Client ainsi que de la mise en place de la supervision sous Nagios de plus de 800 machines (Windows/Linux, Oracle, PostgreSql, Mysql,Sybase)"
+  details: "Au cœur de l'équipe du service de production, je m'occupe de tous les serveurs Linux, des mises en production des applicatifs métier de mon Client ainsi que de la mise en place de la supervision sous Nagios de plus de 800 machines (Windows/Linux, Oracle, PostgreSql, Mysql,Sybase)"
 - experience:
   role: Directeur Technique
   time: 2012 - 2014

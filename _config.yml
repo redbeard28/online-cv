@@ -15,14 +15,14 @@ about: False # set to False or comment line if you want to remove the "How to us
 
 #Profile information
 name: Jérémie CUADRADO
-tagline: Freelance DevOps
+tagline: Freelance BigData & DevOps
 pic: jcu_ronde_100x100.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Freelance on devops and big data. Full maker on IoT and 3D print FDM technology.'
+summary: 'Freelance on BigData & DevOps. Full maker on IoT and 3D print FDM technology.'
 
 #sidebar links
 email: cv@redbeard-consulting.fr
 phone: +33(0)6.34.48.45.38
-website: https://redbeard-consulting.fr #do not add http://
+website: redbeard-consulting.fr #do not add http://
 linkedin: jeremiecuadrado
 github: redbeard28
 twitter: '@3dfabric28'

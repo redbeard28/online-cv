@@ -2,13 +2,13 @@ intro: "You can list your side projects or open source libraries in this section
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: The Things Network
+    link: "https://www.thethingsnetwork.org/community/leves/"
+    tagline: "Our mission is to provide the entire city of Lèves and consequently the surrounding cities (Chartres, Lucé, Mainvilliers, Champhol ...) with the necessary connectivity to enable companies and individuals to deploy Internet of Things with LoRaWAN technology."
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title: Owner of 3dfabric.fr
+    link: "https://3dfabric.fr"
+    tagline: "3d printers for sale."
   - project:
     title: Tempo
     link: "#"

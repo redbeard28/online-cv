@@ -11,6 +11,9 @@
   name: Bash or admin programing
   level: 90%
 - skill:
+  name: Docker
+  level: 70%
+- skill:
   name: Cloudera
   level: 50%
 - skill:
@@ -21,10 +24,13 @@
   level: 50%
 - skill:
   name: Marathon
-  level: 60%
+  level: 70%
 - skill:
   name: Azkaban
-  level: 80%
+  level: 100%
 - skill:
   name: Zookeeper
   level: 25%
+- skill:
+  name: Goland scripting
+  level: 10%
